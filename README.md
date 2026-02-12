@@ -1,5 +1,9 @@
 # SALES PERFORMANCE DASHBOARD – DOCUMENTATION & ANALYSIS
 
+<p align="center">
+  <img src="Dashboard.png" width="80%" />
+</p>
+
 ## 1. Dashboard Objective
 
 - The Sales Performance Dashboard is created to analyse overall business sales performance using historical sales data.
